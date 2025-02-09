@@ -19,7 +19,7 @@ Watch a quick demonstration of **EmailAssist** in action:
 ## 🛠️ Built With
 
 - **Replit Agent**
-- **JavaScript/Python (depending on implementation)**
+- **TypeScript**
 - **Replit's Cloud Infrastructure**
 
 ## ⏱️ Development Time
